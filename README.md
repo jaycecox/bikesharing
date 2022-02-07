@@ -34,7 +34,7 @@ As you can see below, the peak hours of bike use correspond with the typical rus
 
 ![Peak Hours](https://user-images.githubusercontent.com/92542382/152707169-c2aca623-847a-440e-94bb-2d10b06a419e.PNG)
 
-The majority of usees are male.
+The majority of users are male.
 
 ![Gender Breakdown](https://user-images.githubusercontent.com/92542382/152707223-b97ae56e-6cc3-40d5-bff4-d891599a2c8b.PNG)
 
