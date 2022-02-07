@@ -1,10 +1,10 @@
-# NYC Citibike Sharing 
+## NYC Citibike Sharing 
 
-**Purpose:
+# Purpose:
 
 We want to showcase the data of the bike sharing company Citibike, which operates in New York City. We want to tell a story of how this company operates in New York and how this opeartion can be adapted for use in Des Moines, Iowa. We analyzed the data from August 2019.
 
-**Results:
+# Results:
 
 Most individuals use the bikes for about 20 minutes, with a sharp decline and leveling off of use after about an hour. 
 
@@ -26,7 +26,7 @@ Overall, most use comes from subscribers rather than customers no matter the gen
 
 ![user and gender](https://user-images.githubusercontent.com/92542382/152707745-ceba9704-adc6-49b3-b4b8-926b2a136d3d.PNG)
 
-**Summary 
+# Summary 
 
 ![Trip #](https://user-images.githubusercontent.com/92542382/152707034-0d5878c8-022a-4431-91f7-cc9986647aa7.PNG)
 
