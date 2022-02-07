@@ -1,3 +1,5 @@
+[link to dashboard](https://public.tableau.com/app/profile/jayce.cox/viz/NYC_Citibike_Challenge_16440065533970/NYCCitibikeStory?publish=yes)
+
 # NYC Citibike Sharing  
 
 # Purpose:
