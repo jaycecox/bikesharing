@@ -38,3 +38,12 @@ The majority of users are male.
 
 ![Gender Breakdown](https://user-images.githubusercontent.com/92542382/152707223-b97ae56e-6cc3-40d5-bff4-d891599a2c8b.PNG)
 
+In the future, it would be beneficial to look into the top starting and ending locations of each bike station. This would allow us to breakdown whether top spots are near tourist destinations, restaurants, or apartment buildings. Examples of such breakdowns are below.
+
+![top starting](https://user-images.githubusercontent.com/92542382/152708427-c9be755a-63a0-404d-b7fa-7ae019216929.PNG)
+
+![top ending](https://user-images.githubusercontent.com/92542382/152708419-2c887e7d-6610-4421-8081-2eded2e034c0.PNG)
+
+
+
+
